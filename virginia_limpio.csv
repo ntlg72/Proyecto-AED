@@ -1,0 +1,367 @@
+Region,Gender,Handed,Favourite_physical_activity,Importance_reducing_pollution,Birth_month,Beverage,Favorite_School_Subject,Sleep_Hours_Non_Schoolnight,Paid_Work_Hours,Work_At_Home_Hours,Planned_Education_Level
+VA,Female,Right-Handed,Walking/Hiking,1000.0,October,Water,Science,10.0,5.0,5.0,Graduate degree
+VA,Female,Right-Handed,Martial Arts,700.0,October,Water,Science,9.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Swimming,5.0,June,Soft drink (caffeinated),Music,8.0,0.0,0.0,Other
+VA,Female,Right-Handed,Dancing,733.0,August,Soft drink (caffeinated),English,12.0,12.0,0.0,Graduate degree
+VA,Female,Right-Handed,Athletics (Track & Field),1000.0,May,Water,Science,7.0,0.0,0.0,High school
+VA,Male,Right-Handed,Football (American),1000.0,April,Water,Computers and technology,6.0,0.0,0.0,Some college
+VA,Female,Right-Handed,Walking/Hiking,695.0,August,Water,Art,10.0,0.0,3.0,Graduate degree
+VA,Female,Right-Handed,Soccer,1000.0,June,Water,History,5.0,40.0,2.0,Graduate degree
+VA,Female,Right-Handed,Athletics (Track & Field),4.0,July,Water,Music,8.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Soccer,1000.0,August,Tea,Other,9.5,0.0,0.0,Some college
+VA,Male,Right-Handed,Baseball/Softball,500.0,July,Soft drink (caffeinated),Other,4.0,8.0,24.0,Some college
+VA,Female,Left-Handed,Swimming,700.0,August,Water,Science,9.0,0.0,3.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,500.0,October,Water,Mathematics and statistics,13.0,0.0,0.0,Graduate degree
+VA,Female,Left-Handed,Other activities/sports,813.0,May,Tea,Music,10.0,5.0,2.0,Graduate degree
+VA,Male,Left-Handed,Soccer,600.0,May,Milk,Physical education,5.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Basketball,765.0,February,Water,History,8.0,0.0,0.0,High school
+VA,Male,Right-Handed,Soccer,1000.0,February,Water,Mathematics and statistics,4.0,4.0,4.0,Graduate degree
+VA,Female,Right-Handed,Swimming,968.0,August,Milk,History,10.0,5.0,2.0,Graduate degree
+VA,Female,Right-Handed,Gymnastics,727.0,September,Water,Mathematics and statistics,11.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Gymnastics,500.0,August,Tea,Mathematics and statistics,9.0,30.0,0.0,Graduate degree
+VA,Female,Right-Handed,Walking/Hiking,400.0,May,Water,History,8.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Hockey (Field),0.0,April,Water,History,13.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Tennis,1000.0,August,Water,Art,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Tennis,800.0,April,Juice,History,6.0,0.0,0.0,Undergraduate degree
+VA,Male,Left-Handed,Baseball/Softball,800.0,April,Water,Physical education,10.0,1.0,1.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,1000.0,August,Water,History,8.0,30.0,30.0,Some college
+VA,Female,Right-Handed,Other activities/sports,1000.0,October,Sports drink,Music,10.0,0.0,2.0,Graduate degree
+VA,Male,Left-Handed,Lacrosse,999.0,April,Juice,Social studies,5.0,4.0,4.0,Undergraduate degree
+VA,Male,Right-Handed,Basketball,600.0,December,Water,Mathematics and statistics,6.0,0.0,0.0,Graduate degree
+VA,Male,Left-Handed,Cycling,813.0,March,Water,Computers and technology,10.0,10.0,10.0,Graduate degree
+VA,Female,Right-Handed,Soccer,800.0,October,Water,English,10.0,2.0,2.0,Graduate degree
+VA,Female,Left-Handed,Walking/Hiking,1000.0,September,Water,Science,10.0,12.0,12.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,900.0,February,Soft drink (caffeinated),History,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Basketball,500.0,January,Water,History,10.0,0.0,0.0,Other
+VA,Male,Right-Handed,Baseball/Softball,529.0,February,Water,Physical education,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,1000.0,August,Water,Science,9.0,10.0,10.0,Graduate degree
+VA,Male,Right-Handed,Football (American),684.0,September,Juice,Physical education,9.0,0.0,0.0,Graduate degree
+VA,Female,Ambidextrous,Gymnastics,0.0,June,Milk,Mathematics and statistics,4.0,0.0,3.0,Other
+VA,Male,Right-Handed,Other activities/sports,791.0,June,Water,History,9.0,1.0,3.0,Graduate degree
+VA,Female,Right-Handed,Running/Jogging,1000.0,December,Water,English,12.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,80.0,May,Water,English,11.0,5.0,2.0,Some college
+VA,Male,Right-Handed,Walking/Hiking,500.0,July,Soft drink (caffeinated),Computers and technology,12.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Athletics (Track & Field),1000.0,January,Water,Mathematics and statistics,9.0,21.0,21.0,Graduate degree
+VA,Female,Ambidextrous,Football (American),1000.0,October,Other,Music,6.0,0.0,0.0,Graduate degree
+VA,Female,Left-Handed,Soccer,765.0,December,Water,History,12.0,0.0,0.0,High school
+VA,Male,Right-Handed,Golf,500.0,May,Water,Physical education,10.0,0.0,3.0,Graduate degree
+VA,Male,Ambidextrous,Hockey (Ice),1000.0,September,Soft drink (non-caffeinated),History,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,519.0,November,Soft drink (non-caffeinated),Music,5.0,5.0,2.0,Graduate degree
+VA,Male,Right-Handed,Basketball,1000.0,February,Water,Art,9.0,30.0,30.0,Graduate degree
+VA,Male,Left-Handed,Baseball/Softball,658.0,June,Water,Science,9.0,0.0,0.0,Graduate degree
+VA,Male,Ambidextrous,Basketball,1000.0,March,Water,History,7.0,2.0,3.0,High school
+VA,Male,Right-Handed,Skateboarding/Rollerblading,900.0,June,Powdered drink,Music,11.0,15.0,15.0,Undergraduate degree
+VA,Female,Right-Handed,Other activities/sports,684.0,December,Milk,Music,7.0,1.0,1.0,Graduate degree
+VA,Female,Right-Handed,Dancing,500.0,May,Coffee,Art,8.0,15.0,2.0,Graduate degree
+VA,Female,Right-Handed,Soccer,1000.0,December,Juice,History,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,800.0,July,Tea,Art,9.0,15.0,2.0,Undergraduate degree
+VA,Male,Right-Handed,Other activities/sports,401.0,November,Soft drink (caffeinated),Other,11.0,0.0,0.0,Graduate degree
+VA,Female,Left-Handed,Other activities/sports,900.0,September,Juice,Physical education,9.0,5.0,3.0,Graduate degree
+VA,Female,Right-Handed,Dancing,1000.0,August,Water,History,11.0,4.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,1000.0,April,Water,Science,12.0,30.0,30.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,10.0,April,Soft drink (non-caffeinated),English,9.0,9.0,9.0,Undergraduate degree
+VA,Female,Right-Handed,Other activities/sports,500.0,February,Water,Mathematics and statistics,9.0,15.0,2.0,Graduate degree
+VA,Female,Right-Handed,Baseball/Softball,230.0,May,Water,English,10.0,27.0,27.0,Graduate degree
+VA,Female,Ambidextrous,Swimming,1000.0,December,Water,History,8.0,15.0,15.0,Graduate degree
+VA,Female,Right-Handed,Running/Jogging,487.0,December,Water,Music,8.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,925.0,February,Water,Art,7.0,25.0,2.0,Undergraduate degree
+VA,Female,Right-Handed,Walking/Hiking,936.0,November,Water,History,8.0,5.0,5.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,700.0,April,Water,Mathematics and statistics,9.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Skateboarding/Rollerblading,428.0,April,Tea,Computers and technology,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Lacrosse,700.0,June,Juice,Social studies,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Basketball,900.0,March,Water,Science,6.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Football (American),400.0,September,Water,History,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,3.0,July,Water,Other,8.0,0.0,2.0,Undergraduate degree
+VA,Female,Right-Handed,Dancing,727.0,January,Water,Mathematics and statistics,8.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,561.0,October,Water,History,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Baseball/Softball,1000.0,November,Water,Science,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,700.0,November,Water,Art,9.0,0.0,0.0,Graduate degree
+VA,Female,Left-Handed,Dancing,150.0,January,Soft drink (caffeinated),History,14.0,5.0,5.0,Some college
+VA,Male,Left-Handed,Baseball/Softball,500.0,January,Water,Physical education,8.5,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,800.0,April,Water,Physical education,6.0,0.0,3.0,Graduate degree
+VA,Female,Right-Handed,Bowling,578.0,July,Water,Science,9.0,7.0,2.0,High school
+VA,Male,Ambidextrous,Basketball,1000.0,March,Water,History,7.0,2.0,3.0,High school
+VA,Male,Right-Handed,Football (American),1000.0,July,Water,Physical education,10.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Football (American),200.0,January,Water,History,10.0,1.0,1.0,Graduate degree
+VA,Female,Right-Handed,Lacrosse,1000.0,July,Water,Social studies,7.0,10.0,10.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,0.0,October,Water,Mathematics and statistics,10.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Soccer,556.0,June,Coffee,Social studies,9.0,10.0,10.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,50.0,November,Water,History,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Walking/Hiking,700.0,August,Water,Science,9.0,12.0,12.0,Graduate degree
+VA,Male,Right-Handed,Soccer,456.0,March,Water,History,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Running/Jogging,700.0,June,Milk,Science,7.0,30.0,2.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,1000.0,June,Water,Social studies,10.0,24.0,24.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,950.0,March,Juice,Other,8.0,5.0,5.0,Graduate degree
+VA,Male,Right-Handed,Football (American),750.0,September,Water,Art,5.0,15.0,15.0,High school
+VA,Male,Right-Handed,Football (American),0.0,October,Tea,History,6.0,30.0,30.0,High school
+VA,Female,Right-Handed,Walking/Hiking,701.0,May,Tea,Music,9.0,3.0,3.0,Undergraduate degree
+VA,Female,Right-Handed,Other activities/sports,500.0,January,Coffee,Science,8.0,18.0,18.0,Graduate degree
+VA,Male,Right-Handed,Basketball,738.0,December,Water,Mathematics and statistics,8.0,5.0,3.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,4.0,September,Juice,Physical education,12.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,1000.0,March,Water,Science,8.0,20.0,20.0,Graduate degree
+VA,Male,Right-Handed,Basketball,562.0,May,Milk,English,7.0,0.0,0.0,Graduate degree
+VA,Male,Left-Handed,Basketball,600.0,December,Sports drink,Physical education,10.0,25.0,25.0,Graduate degree
+VA,Female,Right-Handed,Walking/Hiking,1000.0,September,Water,Music,10.0,8.0,8.0,Undergraduate degree
+VA,Male,Right-Handed,Skateboarding/Rollerblading,500.0,October,Tea,Other,4.0,30.0,30.0,Graduate degree
+VA,Male,Ambidextrous,Basketball,1000.0,March,Water,History,7.0,2.0,3.0,High school
+VA,Male,Ambidextrous,Basketball,899.0,September,Soft drink (caffeinated),History,11.0,10.0,10.0,Some college
+VA,Female,Right-Handed,Other activities/sports,636.0,December,Juice,Social studies,7.0,15.0,15.0,Other
+VA,Male,Right-Handed,Skateboarding/Rollerblading,706.0,August,Tea,English,5.0,0.0,0.0,Some college
+VA,Male,Right-Handed,Basketball,1000.0,September,Soft drink (caffeinated),Geography,7.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Soccer,1000.0,August,Water,Computers and technology,7.5,25.0,2.0,Graduate degree
+VA,Male,Left-Handed,Basketball,500.0,April,Water,Mathematics and statistics,10.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,900.0,July,Water,Science,7.0,0.0,3.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,658.0,February,Water,Computers and technology,8.5,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,500.0,October,Sports drink,English,8.5,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Basketball,700.0,March,Milk,Physical education,8.5,20.0,20.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,1000.0,September,Other,Computers and technology,15.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Martial Arts,700.0,October,Soft drink (non-caffeinated),Social studies,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Tennis,500.0,July,Water,Social studies,9.0,0.0,2.0,Undergraduate degree
+VA,Male,Right-Handed,Lacrosse,200.0,January,Soft drink (caffeinated),Mathematics and statistics,10.0,20.0,20.0,Graduate degree
+VA,Female,Right-Handed,Dancing,1000.0,March,Water,Other,10.0,10.0,10.0,Graduate degree
+VA,Female,Right-Handed,Bowling,519.0,December,Coffee,Art,9.0,24.0,24.0,Graduate degree
+VA,Male,Left-Handed,Football (American),605.0,September,Water,History,8.0,15.0,15.0,Graduate degree
+VA,Female,Right-Handed,Rowing,900.0,May,Water,Science,7.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,50.0,August,Soft drink (caffeinated),English,12.0,10.5,10.5,High school
+VA,Male,Right-Handed,Martial Arts,900.0,June,Water,History,9.0,8.0,2.0,Graduate degree
+VA,Female,Right-Handed,Dancing,1000.0,January,Milk,Mathematics and statistics,11.0,0.0,2.0,Undergraduate degree
+VA,Female,Right-Handed,Other activities/sports,900.0,April,Water,Mathematics and statistics,9.0,11.0,2.0,Graduate degree
+VA,Female,Right-Handed,Baseball/Softball,30.0,November,Water,Other,8.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,750.0,April,Water,History,12.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Soccer,1000.0,January,Water,Music,10.0,15.0,15.0,Graduate degree
+VA,Female,Right-Handed,Dancing,134.0,September,Water,Art,7.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Athletics (Track & Field),1000.0,April,Water,English,9.0,10.0,10.0,Graduate degree
+VA,Male,Right-Handed,Martial Arts,1000.0,June,Tea,History,7.0,6.0,24.0,Graduate degree
+VA,Male,Right-Handed,Soccer,834.0,July,Water,Music,10.0,22.0,2.0,High school
+VA,Male,Right-Handed,Football (American),342.0,April,Water,History,10.0,6.0,6.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,700.0,June,Water,Science,12.0,0.0,0.0,Undergraduate degree
+VA,Male,Right-Handed,Bowling,1000.0,April,Soft drink (caffeinated),Art,10.0,12.0,12.0,Undergraduate degree
+VA,Male,Right-Handed,Baseball/Softball,300.0,July,Soft drink (caffeinated),Science,10.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Football (American),100.0,May,Water,Science,9.0,25.0,25.0,Graduate degree
+VA,Female,Right-Handed,Gymnastics,900.0,December,Soft drink (caffeinated),Other,8.0,15.0,15.0,Graduate degree
+VA,Female,Right-Handed,Soccer,100.0,September,Water,History,6.0,10.0,0.0,Graduate degree
+VA,Female,Right-Handed,Walking/Hiking,800.0,May,Milk,English,9.0,15.0,2.0,Graduate degree
+VA,Male,Right-Handed,Soccer,925.0,May,Water,Other,9.0,0.0,2.0,Some college
+VA,Female,Right-Handed,Other activities/sports,679.0,September,Water,Social studies,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,800.0,September,Water,Music,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,824.0,November,Water,Science,6.0,26.0,2.0,Other
+VA,Male,Right-Handed,Other activities/sports,1000.0,April,Water,History,5.0,0.0,0.0,High school
+VA,Male,Right-Handed,Basketball,406.0,March,Water,Mathematics and statistics,5.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,390.0,October,Water,Mathematics and statistics,9.0,0.0,0.0,Less than high school
+VA,Female,Right-Handed,Soccer,800.0,February,Water,Science,6.0,6.0,2.0,Graduate degree
+VA,Male,Right-Handed,Basketball,75.0,May,Water,History,4.0,20.0,20.0,Graduate degree
+VA,Male,Right-Handed,Basketball,950.0,April,Tea,Other,11.0,28.0,28.0,Graduate degree
+VA,Male,Right-Handed,Athletics (Track & Field),0.0,May,Water,History,9.0,8.0,8.0,Undergraduate degree
+VA,Male,Right-Handed,Table Tennis,850.0,November,Tea,Science,8.0,25.0,2.0,Graduate degree
+VA,Female,Right-Handed,Lacrosse,900.0,December,Water,English,10.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,684.0,August,Water,Music,6.0,20.0,2.0,Graduate degree
+VA,Male,Right-Handed,Cycling,914.0,February,Juice,Computers and technology,8.0,0.0,2.0,Some college
+VA,Female,Right-Handed,Running/Jogging,1000.0,November,Water,Computers and technology,7.0,10.0,3.0,Graduate degree
+VA,Male,Right-Handed,Lacrosse,700.0,February,Water,History,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Soccer,551.0,November,Tea,English,9.0,16.0,16.0,Undergraduate degree
+VA,Female,Right-Handed,Dancing,950.0,January,Water,Science,10.0,4.0,2.0,Graduate degree
+VA,Female,Right-Handed,Baseball/Softball,250.0,March,Water,Mathematics and statistics,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Rowing,556.0,March,Sports drink,History,8.0,2.0,2.0,Undergraduate degree
+VA,Female,Right-Handed,Walking/Hiking,1000.0,December,Coffee,Social studies,5.0,1.0,1.0,Some college
+VA,Female,Right-Handed,Dancing,513.0,January,Tea,History,9.0,2.0,2.0,Undergraduate degree
+VA,Female,Right-Handed,Dancing,1000.0,March,Coffee,Geography,10.0,20.0,20.0,Other
+VA,Female,Right-Handed,Dancing,100.0,April,Water,English,10.0,25.0,25.0,Graduate degree
+VA,Female,Right-Handed,Walking/Hiking,900.0,October,Water,Music,9.0,0.0,0.0,Undergraduate degree
+VA,Female,Right-Handed,Other activities/sports,684.0,December,Water,Social studies,9.5,3.0,2.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,100.0,April,Soft drink (caffeinated),Science,10.0,24.0,24.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,888.0,November,Water,Social studies,12.0,15.0,2.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,182.0,September,Water,Social studies,8.0,30.0,30.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,500.0,April,Water,Mathematics and statistics,9.0,0.0,3.0,Graduate degree
+VA,Female,Right-Handed,Soccer,600.0,December,Water,Mathematics and statistics,9.0,8.0,2.0,Graduate degree
+VA,Male,Right-Handed,Football (American),700.0,September,Juice,Mathematics and statistics,5.0,0.0,0.0,Some college
+VA,Male,Left-Handed,Football (American),400.0,August,Water,Physical education,6.0,30.0,0.0,Graduate degree
+VA,Female,Left-Handed,Walking/Hiking,449.0,January,Water,Art,6.0,0.0,0.0,Undergraduate degree
+VA,Female,Right-Handed,Athletics (Track & Field),797.0,July,Tea,English,11.0,20.0,0.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,472.0,April,Milk,History,10.0,5.0,2.0,Some college
+VA,Female,Right-Handed,Walking/Hiking,0.0,May,Water,Languages,8.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,1000.0,November,Water,Music,7.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Martial Arts,1000.0,June,Energy drink,History,8.0,2.0,2.0,Graduate degree
+VA,Male,Right-Handed,Soccer,1000.0,August,Water,Computers and technology,7.5,25.0,2.0,Graduate degree
+VA,Male,Right-Handed,Soccer,500.0,April,Water,Computers and technology,4.0,5.0,5.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,900.0,November,Tea,History,5.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Skateboarding/Rollerblading,1000.0,April,Water,Mathematics and statistics,6.0,0.0,0.0,Undergraduate degree
+VA,Male,Ambidextrous,Basketball,500.0,October,Water,History,10.0,4.0,2.0,Graduate degree
+VA,Male,Right-Handed,Golf,550.0,May,Milk,Computers and technology,7.0,5.0,5.0,Graduate degree
+VA,Male,Right-Handed,Basketball,626.0,December,Sports drink,Computers and technology,5.0,15.0,15.0,Graduate degree
+VA,Female,Right-Handed,Baseball/Softball,1000.0,October,Water,History,5.0,0.0,0.0,Other
+VA,Male,Right-Handed,Table Tennis,1000.0,May,Energy drink,Mathematics and statistics,7.5,40.0,3.0,Graduate degree
+VA,Male,Right-Handed,Football (American),500.0,May,Water,Science,8.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Soccer,900.0,September,Water,Mathematics and statistics,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Football (American),700.0,October,Water,Science,8.0,24.0,24.0,Some college
+VA,Male,Right-Handed,Walking/Hiking,850.0,June,Water,History,6.0,27.0,0.0,Graduate degree
+VA,Male,Right-Handed,Walking/Hiking,869.0,March,Water,History,10.0,5.0,0.0,Graduate degree
+VA,Female,Left-Handed,Hockey (Field),900.0,March,Water,History,9.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Cycling,914.0,February,Juice,Computers and technology,8.0,0.0,2.0,Some college
+VA,Male,Right-Handed,Soccer,1000.0,July,Juice,History,10.0,3.0,0.0,Graduate degree
+VA,Male,Right-Handed,Hockey (Ice),600.0,October,Soft drink (caffeinated),Music,8.0,0.0,3.0,Graduate degree
+VA,Female,Right-Handed,Dancing,492.0,April,Water,Other,8.0,20.0,20.0,Graduate degree
+VA,Male,Right-Handed,Basketball,500.0,August,Water,Physical education,10.0,18.0,18.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,1000.0,April,Water,Mathematics and statistics,8.0,0.0,3.0,Graduate degree
+VA,Male,Right-Handed,Football (American),872.0,October,Water,Science,11.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Running/Jogging,600.0,March,Water,Computers and technology,8.0,15.0,15.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,500.0,January,Water,English,7.0,2.0,2.0,Graduate degree
+VA,Male,Right-Handed,Tennis,800.0,January,Water,Science,10.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,214.0,July,Soft drink (caffeinated),Music,12.0,0.0,2.0,Some college
+VA,Male,Right-Handed,Soccer,1000.0,June,Juice,Mathematics and statistics,6.5,0.0,0.0,Undergraduate degree
+VA,Female,Right-Handed,Walking/Hiking,1000.0,February,Water,Science,11.0,25.0,25.0,Graduate degree
+VA,Male,Right-Handed,Basketball,765.0,December,Water,Physical education,9.0,0.0,0.0,Some college
+VA,Male,Right-Handed,Running/Jogging,0.0,June,Water,History,10.0,0.0,0.0,Undergraduate degree
+VA,Female,Left-Handed,Walking/Hiking,740.0,October,Water,History,8.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Dancing,700.0,September,Water,English,10.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Skateboarding/Rollerblading,200.0,October,Water,Art,8.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Running/Jogging,1000.0,December,Water,History,8.0,15.0,15.0,Graduate degree
+VA,Male,Right-Handed,Lacrosse,0.0,March,Water,Physical education,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Lacrosse,300.0,April,Water,History,6.0,20.0,20.0,Graduate degree
+VA,Male,Ambidextrous,Hockey (Ice),300.0,July,Water,Science,9.0,7.0,7.0,Graduate degree
+VA,Male,Right-Handed,Lacrosse,500.0,March,Sports drink,History,8.0,15.0,2.0,Graduate degree
+VA,Male,Left-Handed,Football (American),834.0,October,Water,Social studies,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,1000.0,July,Water,History,12.0,8.0,8.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,750.0,December,Soft drink (caffeinated),Music,9.5,9.0,9.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,497.0,May,Soft drink (caffeinated),Physical education,10.0,0.0,0.0,High school
+VA,Female,Left-Handed,Basketball,700.0,March,Water,Art,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,1000.0,January,Soft drink (caffeinated),Other,8.0,0.0,0.0,Undergraduate degree
+VA,Female,Right-Handed,Baseball/Softball,700.0,May,Water,Other,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Soccer,900.0,April,Water,Physical education,12.0,0.0,3.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,321.0,June,Water,Physical education,9.0,25.0,25.0,Graduate degree
+VA,Female,Right-Handed,Dancing,358.0,September,Water,Other,11.0,10.0,10.0,Graduate degree
+VA,Female,Ambidextrous,Basketball,1000.0,April,Water,English,6.5,20.0,0.0,Undergraduate degree
+VA,Male,Ambidextrous,Basketball,750.0,March,Sports drink,Mathematics and statistics,11.0,0.0,0.0,Undergraduate degree
+VA,Male,Left-Handed,Football (American),364.0,December,Water,English,9.0,20.0,20.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,500.0,February,Soft drink (caffeinated),Other,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Running/Jogging,904.0,September,Water,English,7.0,0.0,0.0,Undergraduate degree
+VA,Male,Right-Handed,Cycling,300.0,March,Tea,Computers and technology,8.0,8.0,8.0,Graduate degree
+VA,Male,Right-Handed,Basketball,0.0,May,Water,History,12.0,0.0,0.0,Graduate degree
+VA,Female,Left-Handed,Athletics (Track & Field),800.0,June,Water,History,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,100.0,May,Tea,English,9.0,9.0,2.0,Graduate degree
+VA,Female,Right-Handed,Rowing,1000.0,February,Water,Languages,10.0,15.0,3.0,Graduate degree
+VA,Female,Right-Handed,Lacrosse,401.0,October,Coffee,Science,9.0,0.0,0.0,Graduate degree
+VA,Female,Left-Handed,Soccer,1000.0,March,Water,Mathematics and statistics,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Tennis,600.0,January,Water,Social studies,8.0,10.0,2.0,Graduate degree
+VA,Male,Left-Handed,Other activities/sports,877.0,July,Water,Music,6.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,631.0,June,Water,Music,9.0,12.0,12.0,Undergraduate degree
+VA,Female,Right-Handed,Dancing,4.0,June,Water,Music,8.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Running/Jogging,887.0,November,Water,Social studies,7.0,10.0,10.0,Some college
+VA,Female,Right-Handed,Other activities/sports,738.0,December,Water,Languages,9.0,5.0,0.0,Graduate degree
+VA,Female,Ambidextrous,Other activities/sports,615.0,September,Water,Science,8.5,0.0,3.0,Graduate degree
+VA,Male,Right-Handed,Athletics (Track & Field),1000.0,December,Juice,Physical education,8.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,100.0,October,Water,Other,8.0,0.0,0.0,Other
+VA,Male,Right-Handed,Football (American),500.0,September,Water,Physical education,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,820.0,June,Water,Mathematics and statistics,9.0,0.0,2.0,Undergraduate degree
+VA,Female,Right-Handed,Athletics (Track & Field),600.0,September,Juice,Science,10.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Tennis,800.0,July,Water,History,10.0,10.0,10.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,1000.0,June,Tea,History,12.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Athletics (Track & Field),500.0,June,Water,English,13.0,0.0,0.0,Graduate degree
+VA,Female,Left-Handed,Soccer,1000.0,October,Water,Science,9.0,16.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,658.0,January,Water,Mathematics and statistics,9.0,4.0,4.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,998.0,December,Water,Music,10.0,16.0,24.0,Other
+VA,Female,Left-Handed,Tennis,834.0,May,Water,History,8.0,0.0,0.0,Graduate degree
+VA,Female,Left-Handed,Other activities/sports,904.0,October,Water,Science,11.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Lacrosse,500.0,April,Tea,Other,10.0,25.0,2.0,Graduate degree
+VA,Female,Right-Handed,Lacrosse,733.0,September,Water,English,11.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Basketball,750.0,October,Water,History,6.0,0.0,0.0,Undergraduate degree
+VA,Male,Right-Handed,Golf,500.0,March,Soft drink (caffeinated),History,9.0,24.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,898.0,January,Water,Mathematics and statistics,10.0,3.0,3.0,Graduate degree
+VA,Female,Right-Handed,Running/Jogging,620.0,October,Water,Science,11.0,0.0,3.0,Undergraduate degree
+VA,Male,Right-Handed,Football (American),1000.0,August,Soft drink (non-caffeinated),Physical education,10.0,0.0,2.0,Undergraduate degree
+VA,Male,Left-Handed,Tennis,600.0,March,Milk,Music,10.0,15.0,15.0,Some college
+VA,Female,Right-Handed,Swimming,1000.0,November,Milk,Mathematics and statistics,6.0,0.0,3.0,Graduate degree
+VA,Female,Right-Handed,Soccer,658.0,May,Water,Physical education,8.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,1000.0,June,Soft drink (non-caffeinated),Art,9.0,42.0,3.0,Undergraduate degree
+VA,Female,Right-Handed,Swimming,701.0,December,Water,Art,9.0,3.0,3.0,Graduate degree
+VA,Male,Right-Handed,Tennis,706.0,February,Water,History,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Walking/Hiking,957.0,March,Water,Mathematics and statistics,9.5,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Football (American),70.0,March,Sports drink,Physical education,8.0,25.0,2.0,Graduate degree
+VA,Male,Right-Handed,Basketball,740.0,December,Sports drink,History,11.0,25.0,25.0,Some college
+VA,Male,Left-Handed,Swimming,759.0,May,Juice,Science,11.0,6.0,2.0,Graduate degree
+VA,Female,Right-Handed,Gymnastics,1000.0,October,Milk,Art,10.0,4.0,4.0,Graduate degree
+VA,Male,Right-Handed,Athletics (Track & Field),877.0,February,Water,Computers and technology,9.0,0.0,0.0,Undergraduate degree
+VA,Female,Right-Handed,Soccer,706.0,January,Water,English,8.0,0.0,2.0,Some college
+VA,Female,Right-Handed,Skateboarding/Rollerblading,1000.0,January,Water,Art,12.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Walking/Hiking,750.0,October,Water,Music,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,400.0,November,Juice,English,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,800.0,December,Water,Art,9.0,15.0,2.0,Graduate degree
+VA,Female,Left-Handed,Tennis,786.0,September,Water,Science,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Walking/Hiking,500.0,April,Water,Science,8.0,0.0,3.0,Graduate degree
+VA,Male,Right-Handed,Soccer,340.0,September,Water,Physical education,8.0,0.0,0.0,Undergraduate degree
+VA,Female,Right-Handed,Soccer,900.0,August,Water,Mathematics and statistics,9.0,2.0,2.0,Graduate degree
+VA,Male,Right-Handed,Soccer,500.0,June,Water,Physical education,10.0,0.0,2.0,Other
+VA,Female,Right-Handed,Swimming,636.0,January,Water,Science,9.0,10.0,3.0,Graduate degree
+VA,Female,Right-Handed,Tennis,500.0,May,Water,Social studies,9.0,20.0,2.0,Graduate degree
+VA,Female,Right-Handed,Hockey (Field),700.0,June,Water,Art,10.0,0.0,3.0,Undergraduate degree
+VA,Female,Right-Handed,Hockey (Field),1000.0,April,Water,Science,8.0,7.0,7.0,Graduate degree
+VA,Male,Left-Handed,Rowing,695.0,March,Water,History,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Tennis,0.0,December,Water,English,8.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,556.0,November,Water,Other,12.0,0.0,0.0,Other
+VA,Female,Right-Handed,Soccer,1000.0,July,Soft drink (caffeinated),Other,7.0,0.0,0.0,Other
+VA,Female,Right-Handed,Other activities/sports,1000.0,August,Water,Mathematics and statistics,8.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,845.0,January,Water,History,10.0,5.0,3.0,Graduate degree
+VA,Female,Right-Handed,Hockey (Field),936.0,October,Water,Mathematics and statistics,6.0,0.0,0.0,Some college
+VA,Female,Right-Handed,Cycling,203.0,October,Water,Mathematics and statistics,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Soccer,800.0,July,Water,Physical education,6.0,1.0,3.0,Some college
+VA,Male,Right-Handed,Soccer,1000.0,February,Water,Computers and technology,9.0,15.0,3.0,Graduate degree
+VA,Male,Right-Handed,Soccer,1000.0,July,Sports drink,History,10.0,20.0,20.0,Undergraduate degree
+VA,Male,Right-Handed,Soccer,1000.0,August,Water,Computers and technology,7.5,25.0,2.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,642.0,November,Tea,Art,7.0,0.0,3.0,Undergraduate degree
+VA,Male,Right-Handed,Running/Jogging,900.0,August,Water,History,9.0,0.0,3.0,Graduate degree
+VA,Male,Left-Handed,Hockey (Ice),626.0,November,Tea,Computers and technology,8.0,0.0,3.0,High school
+VA,Female,Right-Handed,Soccer,1000.0,January,Water,Art,7.0,1.0,1.0,Graduate degree
+VA,Female,Right-Handed,Swimming,807.0,November,Water,Science,9.0,0.0,2.0,Graduate degree
+VA,Female,Right-Handed,Bowling,500.0,August,Tea,English,10.0,0.0,0.0,High school
+VA,Male,Right-Handed,Baseball/Softball,750.0,November,Water,Art,8.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,500.0,April,Water,Other,12.0,4.0,2.0,Graduate degree
+VA,Female,Right-Handed,Swimming,829.0,June,Water,Art,9.0,5.0,5.0,Graduate degree
+VA,Male,Right-Handed,Soccer,500.0,March,Water,History,12.0,1.0,0.0,Graduate degree
+VA,Female,Right-Handed,Swimming,900.0,August,Water,English,8.0,6.0,2.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,100.0,August,Water,Other,7.0,6.0,2.0,Graduate degree
+VA,Male,Right-Handed,Swimming,824.0,January,Water,Computers and technology,10.0,30.0,2.0,Some college
+VA,Male,Right-Handed,Hockey (Ice),825.0,December,Water,History,9.0,0.0,0.0,Undergraduate degree
+VA,Male,Right-Handed,Football (American),999.0,April,Water,Computers and technology,8.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Soccer,900.0,December,Soft drink (non-caffeinated),English,10.0,0.0,0.0,Undergraduate degree
+VA,Female,Right-Handed,Basketball,0.0,October,Water,History,9.0,3.0,0.0,Some college
+VA,Male,Right-Handed,Other activities/sports,2.0,February,Tea,History,5.0,14.0,14.0,Undergraduate degree
+VA,Female,Right-Handed,Bowling,1000.0,June,Water,Music,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Hockey (Field),754.0,January,Water,History,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Gymnastics,800.0,October,Water,Science,11.0,0.0,0.0,Graduate degree
+VA,Male,Left-Handed,Soccer,50.0,August,Water,Other,10.0,2.0,2.0,Undergraduate degree
+VA,Male,Right-Handed,Running/Jogging,500.0,June,Soft drink (caffeinated),Physical education,5.0,30.0,30.0,High school
+VA,Female,Right-Handed,Dancing,1000.0,July,Water,Art,10.0,1.0,1.0,Undergraduate degree
+VA,Female,Right-Handed,Other activities/sports,500.0,May,Sports drink,History,4.0,0.0,2.0,High school
+VA,Female,Right-Handed,Other activities/sports,727.0,July,Water,Languages,9.5,2.0,2.0,Graduate degree
+VA,Female,Right-Handed,Other activities/sports,364.0,April,Other,Other,10.0,0.0,2.0,Some college
+VA,Female,Right-Handed,Dancing,900.0,August,Water,Art,12.0,0.5,0.5,Graduate degree
+VA,Female,Right-Handed,Walking/Hiking,540.0,June,Water,Art,5.0,20.0,20.0,Graduate degree
+VA,Female,Right-Handed,Swimming,500.0,July,Water,Mathematics and statistics,10.0,0.0,0.0,Undergraduate degree
+VA,Male,Right-Handed,Baseball/Softball,487.0,March,Water,History,9.0,15.0,2.0,Graduate degree
+VA,Male,Right-Handed,Baseball/Softball,500.0,July,Tea,History,9.0,20.0,3.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,963.0,September,Water,History,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,900.0,July,Water,Science,9.0,0.0,0.0,Some college
+VA,Female,Right-Handed,Dancing,727.0,November,Water,Physical education,8.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Basketball,700.0,April,Juice,Social studies,10.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Running/Jogging,1000.0,October,Water,English,12.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Soccer,700.0,March,Water,History,10.0,10.0,10.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,620.0,September,Powdered drink,Physical education,4.0,0.0,2.0,Some college
+VA,Male,Right-Handed,Soccer,508.0,April,Water,Music,10.0,12.0,12.0,Undergraduate degree
+VA,Male,Right-Handed,Basketball,700.0,May,Soft drink (caffeinated),Science,10.0,10.0,2.0,Graduate degree
+VA,Female,Right-Handed,Soccer,882.0,June,Water,Music,5.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Running/Jogging,134.0,March,Water,Mathematics and statistics,5.0,0.0,0.0,Undergraduate degree
+VA,Female,Right-Handed,Walking/Hiking,500.0,November,Water,Science,8.0,30.0,30.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,500.0,February,Soft drink (caffeinated),Other,9.0,0.0,0.0,Graduate degree
+VA,Female,Right-Handed,Dancing,600.0,May,Water,History,9.0,2.0,2.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,658.0,March,Soft drink (caffeinated),Mathematics and statistics,12.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Football (American),470.0,March,Water,Science,7.4,0.0,2.0,Undergraduate degree
+VA,Male,Right-Handed,Martial Arts,818.0,July,Water,History,10.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Walking/Hiking,75.0,August,Water,History,5.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Basketball,800.0,May,Water,History,8.0,21.0,3.0,Graduate degree
+VA,Female,Right-Handed,Swimming,900.0,July,Water,Mathematics and statistics,12.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Walking/Hiking,100.0,February,Water,History,8.0,10.0,10.0,Graduate degree
+VA,Male,Right-Handed,Athletics (Track & Field),600.0,December,Water,Mathematics and statistics,10.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Other activities/sports,500.0,February,Soft drink (caffeinated),Other,9.0,0.0,0.0,Graduate degree
+VA,Male,Right-Handed,Hockey (Ice),750.0,August,Water,Social studies,9.0,0.0,2.0,Graduate degree
+VA,Male,Right-Handed,Martial Arts,503.0,September,Water,Science,9.0,0.0,0.0,Graduate degree
+VA,Male,Left-Handed,Baseball/Softball,500.0,January,Water,Mathematics and statistics,8.0,20.0,20.0,Some college
+VA,Female,Left-Handed,Dancing,1000.0,May,Water,Science,9.0,7.0,7.0,Undergraduate degree
